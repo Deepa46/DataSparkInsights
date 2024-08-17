@@ -2,8 +2,6 @@
 
 **DataSpark: Illuminating Insights for Global Electronics** is a comprehensive project focused on retail analytics within the electronics industry. The project involves data cleaning, exploratory data analysis (EDA), and visualization using Power BI.
 
-It aims to provide actionable recommendations for Global Electronics by analyzing customer demographics, sales performance, product popularity, and store operations. The insights derived from this analysis will help in optimizing marketing strategies, inventory management, and sales forecasting, ultimately driving business growth.
-
 ## Data Set
 | Table | Description |
 |-------|-------------|
